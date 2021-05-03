@@ -1,0 +1,6 @@
+## import the sequence list from a CSV file which include the codes preparer by command esearch in unix
+#thought ubuntu 
+esearch -db nuccore -query "Gadus ... condition"  |efetch -format xml > COI.xml
+
+# or download them directly from Web site
+
