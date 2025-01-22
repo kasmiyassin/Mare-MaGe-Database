@@ -11,5 +11,6 @@ Kasmi, Y., Eschbach, E., & Hanel, R. (2023). Mare-MAGE curated reference databas
 
 MARE-MAGE is an open data license
 
-* [For issue and problem:](https://github.com/kasmiyassin/mare-mage_db/issues)
-* [Wiki](https://github.com/kasmiyassin/mare-mage_db/wiki). The wiki is still in updating
+* [For issue and problem:](https://github.com/kasmiyassin/Mare-MaGe-Database/issues)
+* [Wiki](https://github.com/kasmiyassin/Mare-MaGe-Database/wiki). The wiki is still in updating
+* [Discussion](https://github.com/kasmiyassin/Mare-MaGe-Database/discussions)
